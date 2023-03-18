@@ -1,0 +1,58 @@
+
+body{
+    border: solid red;
+    margin: 0px;
+    padding: 10px;
+    height: 300%;
+    width: 100%;
+}
+
+
+
+.nav-page {
+    background-color: rgb(7, 151, 161);
+    padding: 30px;
+}
+
+.nav-page li{
+    display: inline-block;
+    padding: 25px;
+
+}
+
+.nav-page a{
+    text-decoration: none;
+    background-color: gray;
+    color: yellow;
+    padding: 10px;
+    border-radius: 4px;
+}
+   
+
+.nav-page ul {
+    font-size: 20px; 
+    list-style: none;
+    text-decoration: none;
+}
+
+
+.list-fruit {
+    background-color: #4a4a4a;
+    margin-left: 20px;
+    margin-top: 20px;
+    padding: 15px;
+}
+
+
+h1 {
+    color: rgb(209, 63, 63);
+}
+
+html{
+    font-family: monospace;
+}
+
+p{
+    color: rgb(90, 144, 175);
+    font-family: inherit;
+}

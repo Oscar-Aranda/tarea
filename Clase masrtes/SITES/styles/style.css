@@ -1,0 +1,53 @@
+h1{
+    color: blue;
+}
+
+video{
+    height: 250px;
+    width: 300px;
+}
+
+img{
+    height: 30px;
+    width: 40px;
+}
+
+h1{
+    color: violet;
+}
+
+.text{
+    color: yellowgreen;
+}
+
+.nav-page {
+    font-size: 20px; 
+    list-style: none;
+    text-decoration: none;
+}
+
+body{
+    border: solid red;
+    margin: 0px;
+    padding: 10px;
+    height: 300%;
+    width: 100%;
+}
+
+.moto{
+    font-size: 30px;
+}
+
+.list li{
+    display: inline-block;
+}
+
+.list{
+    background-color: aqua;
+    font-size: 25px;
+}
+
+.img1{
+    width: 500px;
+    height: 300px;
+}

@@ -1,0 +1,30 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.box{
+    font-size: 2rem;
+}
+
+.padre{
+    border: 2px blue dotted;
+    display: inline-block;
+}
+
+.box{
+    display: inline-block;
+    background-color: blueviolet;
+    height: 10rem;
+    width: 10rem;
+}
+
+#dos{
+    background-color: blue;
+    position: absolute;
+}
